@@ -35,6 +35,7 @@ Welcome to my profile! I am a first-year student passionate about software devel
 - 🤖 **AI & Data:** Learning Python specifically for **Machine Learning**.
 - 💻 **Project - UBYS Bot:** A Python automation tool that tracks university grades and sends Telegram notifications.
 - 🔮 **Project - Horoscope Bot:** A Python-based astrology bot developed to deliver daily horoscopes.
+- 🔮 **Project - Fortune Teller Bot:** An interactive, AI-driven Telegram bot using **Gemini 3 Flash** for real-time mystical readings, deployed 24/7 on **Render**.
 
 ---
 
