@@ -58,4 +58,4 @@ Backend development, and practical AI integrations.
 
 ## Connect
 
-<h1 align="center"> [LinkedIn](https://www.linkedin.com/in/yusufsamituran/) · [Email](mailto:ysfsturan@gmail.com) </h1>
+[LinkedIn](https://www.linkedin.com/in/yusufsamituran/) · [Email](mailto:ysfsturan@gmail.com)
