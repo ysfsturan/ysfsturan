@@ -1,54 +1,46 @@
-# Hi there, I'm Yusuf Sami Turan! 👋
+<h1 align="center">Hi, I'm Yusuf Sami Turan 👋</h1>
 
-**Computer Programming Student at Kastamonu University**
+<p align="center">
+  Final-year Computer Programming student at Kastamonu University<br />
+  Focused on C#, Python, PHP, SQL, Flutter/Dart, backend development, automation, and AI.
+</p>
 
-Welcome to my profile! I am a first-year student passionate about software development. After completing my English preparatory class with a score of **82**, I am now building a strong foundation in backend and frontend technologies.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ysfsturan&label=Profile+views&color=0e75b6&style=flat-square" alt="Profile views" />
+</p>
 
----
+## Currently learning
 
-### 🛠️ Tech Stack & Tools
+Backend development, Flutter/Dart, and practical AI integrations.
 
-**Languages & Database:**
-![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![MSSQL](https://img.shields.io/badge/Microsoft%20SQL-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+## Tech stack
 
-**IDEs & Editors:**
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat&logo=visual-studio&logoColor=white)
-![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)
-![Google Antigravity](https://img.shields.io/badge/Google_Antigravity-4285F4?style=flat&logo=google&logoColor=white)
-![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat&logo=visual-studio-code&logoColor=white)
+- **Languages:** C#, Python, PHP, Dart
+- **Data:** SQL, Microsoft SQL Server
+- **App and web:** .NET, Windows Forms, Flutter, HTML, CSS
+- **Tools and APIs:** Git, GitHub, Visual Studio, VS Code, Telegram Bot API, Google Gemini API
 
-**Design & Other Tools:**
-![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat&logo=Adobe%20Photoshop&logoColor=white)
-![Adobe Animate](https://img.shields.io/badge/Adobe%20Animate-FF0000?style=flat&logo=Adobe%20Animate&logoColor=white)
-![Adobe Dreamweaver](https://img.shields.io/badge/Adobe%20Dreamweaver-FF61F6?style=flat&logo=Adobe%20Dreamweaver&logoColor=white)
-![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=flat&logo=microsoft-office&logoColor=white)
+## Featured projects
 
----
+- [**Kastamonu UBYS Bot**](https://github.com/ysfsturan/Kastamonu_UBYS_Bot) — Python automation for tracking university grades and sending updates through Telegram.
+- [**Fortune Teller Bot**](https://github.com/ysfsturan/Fortune_Teller_Bot) — Gemini-powered Telegram bot for personalized fortune readings.
 
-### 🔭 What I'm Up To
+## More projects
 
-- 🎓 **Academic:** Currently learning **C# Console Applications** and preparing for **Windows Forms Applications** development. Next year, I'll be diving into **PHP**.
-- 🤖 **AI & Data:** Learning Python specifically for **Machine Learning**.
-- 💻 **Project - UBYS Bot:** A Python automation tool that tracks university grades and sends Telegram notifications.
-- 🔮 **Project - Horoscope Bot:** A Python-based astrology bot developed to deliver daily horoscopes.
-- 🔮 **Project - Fortune Teller Bot:** An interactive, AI-driven Telegram bot using **Gemini 3 Flash** for real-time mystical readings, deployed 24/7 on **Render**.
+- [Daily Horoscope Bot](https://github.com/ysfsturan/Daily_Horoscope_Bot) — Python and Gemini bot that sends personalized horoscope readings through Telegram.
+- [Python Calculator](https://github.com/ysfsturan/Python_Calculator) — A simple calculator project built with Python.
 
----
+## Experience
 
-### 📫 Connect with Me
+**IT / Information Systems Intern** · General Directorate of Highways, 15th Regional Directorate
 
-<div align="center">
-  <a href="mailto:ysfsturan@gmail.com">
-    <img src="https://img.shields.io/badge/Email-ysfsturan@gmail.com-red?style=flat&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://www.linkedin.com/in/yusufsamituran/">
-    <img src="https://img.shields.io/badge/LinkedIn-yusufsamituran-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <br/>
-  <br/>
-  <p align="center">Everything is made with ❤️ by Yusuf Sami Turan</p>
-</div>
+## GitHub stats
+
+<p align="center">
+  <img height="165" src="https://github-stats-extended.vercel.app/api?username=ysfsturan&show_icons=true&hide_border=true&theme=transparent" alt="GitHub stats" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=ysfsturan&layout=compact&hide_border=true&theme=transparent" alt="Top languages" />
+</p>
+
+## Connect
+
+[LinkedIn](https://www.linkedin.com/in/yusufsamituran/) · [Email](mailto:ysfsturan@gmail.com)
