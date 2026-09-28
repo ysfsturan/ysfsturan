@@ -2,7 +2,7 @@
 
 <p align="center">
   Final-year Computer Programming student at Kastamonu University<br />
-  Focused on C#, Python, PHP, SQL, Flutter/Dart, backend development, automation, and AI.
+  Focused on C#, Python, PHP, SQL, backend development, automation, and AI.
 </p>
 
 <p align="center">
@@ -11,7 +11,7 @@
 
 ## Currently learning
 
-Backend development, Flutter/Dart, and practical AI integrations.
+Backend development, and practical AI integrations.
 
 ## Tech stack
 
@@ -37,17 +37,17 @@ Backend development, Flutter/Dart, and practical AI integrations.
 
 ## Featured projects
 
-- [**Kastamonu UBYS Bot**](https://github.com/ysfsturan/Kastamonu_UBYS_Bot) — Python automation for tracking university grades and sending updates through Telegram.
-- [**Fortune Teller Bot**](https://github.com/ysfsturan/Fortune_Teller_Bot) — Gemini-powered Telegram bot for personalized fortune readings.
+- [**Kastamonu UBYS Bot**](https://github.com/ysfsturan/Kastamonu_UBYS_Bot) — Python automation for tracking university grades and sending updates through Telegram. (Inactive)
+- [**Daily Horoscope Bot**](https://github.com/ysfsturan/Daily_Horoscope_Bot) — Python and Gemini bot that sends personalized horoscope readings through Telegram. (Inactive)
 
 ## More projects
 
-- [Daily Horoscope Bot](https://github.com/ysfsturan/Daily_Horoscope_Bot) — Python and Gemini bot that sends personalized horoscope readings through Telegram.
-- [Python Calculator](https://github.com/ysfsturan/Python_Calculator) — A simple calculator project built with Python.
+- [Fortune Teller Bot](https://github.com/ysfsturan/Fortune_Teller_Bot) — Gemini-powered Telegram bot for personalized fortune readings. (Inactive)
+- [Python Calculator](https://github.com/ysfsturan/Python_Calculator) — A simple calculator project built with Python. (Inactive)
 
 ## Experience
 
-**IT / Information Systems Intern** · General Directorate of Highways, 15th Regional Directorate
+**IT / Information Systems Intern** · General Directorate of Highways, 15th Regional Directorate / Kastamonu, Turkiye
 
 ## GitHub stats
 
@@ -58,4 +58,4 @@ Backend development, Flutter/Dart, and practical AI integrations.
 
 ## Connect
 
-[LinkedIn](https://www.linkedin.com/in/yusufsamituran/) · [Email](mailto:ysfsturan@gmail.com)
+<h1 align="center"> [LinkedIn](https://www.linkedin.com/in/yusufsamituran/) · [Email](mailto:ysfsturan@gmail.com) </h1>
