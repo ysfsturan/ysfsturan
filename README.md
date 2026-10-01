@@ -5,10 +5,6 @@
   Interested in backend development, automation, IT systems, and practical AI integrations.
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ysfsturan&label=Profile+views&color=0e75b6&style=flat-square" alt="Profile views" />
-</p>
-
 ## About me
 
 I'm a Computer Programming student at Kastamonu University with a focus on building practical software and automation projects.
