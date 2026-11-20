@@ -7,13 +7,13 @@
 
 <p align="center">
   <a href="https://ysfsturan.github.io/">
-    <img src="https://img.shields.io/badge/Portfolio-ysfsturan.github.io-0b0d10?style=flat-square&logo=githubpages&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-ysfsturan.github.io-3B4252?style=flat-square&logo=githubpages&logoColor=88C0D0" alt="Portfolio" />
   </a>
   <a href="https://www.linkedin.com/in/yusufsamituran/">
-    <img src="https://img.shields.io/badge/LinkedIn-yusufsamituran-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-yusufsamituran-5E81AC?style=flat-square&logo=linkedin&logoColor=ECEFF4" alt="LinkedIn" />
   </a>
   <a href="mailto:ysfsturan@gmail.com">
-    <img src="https://img.shields.io/badge/Email-ysfsturan%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-ysfsturan%40gmail.com-88C0D0?style=flat-square&logo=gmail&logoColor=2E3440" alt="Email" />
   </a>
 </p>
 
@@ -98,7 +98,7 @@ Starter Python calculator project built while practicing programming fundamental
 
 ## Experience
 
-**IT / Information Systems Intern**  
+**IT / Information Systems Intern** · *July – August 2026*  
 General Directorate of Highways, 15th Regional Directorate · Kastamonu, Türkiye
 
 Supported daily IT operations and information systems maintenance:
@@ -122,8 +122,8 @@ Computer Programming · 2nd Year
 ## GitHub stats
 
 <p align="center">
-  <img height="165" src="https://github-stats-extended.vercel.app/api?username=ysfsturan&show_icons=true&hide_border=true&theme=transparent" alt="GitHub stats" />
-  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=ysfsturan&layout=compact&hide_border=true&theme=transparent" alt="Top languages" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api?username=ysfsturan&show_icons=true&hide_border=true&theme=nord" alt="GitHub stats" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=ysfsturan&layout=compact&hide_border=true&theme=nord" alt="Top languages" />
 </p>
 
 ## Connect
