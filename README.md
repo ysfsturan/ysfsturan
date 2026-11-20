@@ -52,37 +52,37 @@ From my Information Systems internship, I gained hands-on experience in computer
 
 ## Featured projects
 
-### [Kastamonu UBYS Bot](https://github.com/ysfsturan/Kastamonu_UBYS_Bot) · `Active`
+### [Kastamonu UBYS Bot](https://github.com/ysfsturan/Kastamonu_UBYS_Bot)
 
 A Telegram assistant for Kastamonu University students. Tracks ÜBYS grades and attendance limits, sends final target calculations, daily dining menus, Kuzeykent weather, class schedules, and university announcements via GitHub Actions.
 
 **Stack:** Python · Telegram Bot API · GitHub Actions
 
-### [Daily Horoscope Bot](https://github.com/ysfsturan/Daily_Horoscope_Bot) · `Active`
+### [Daily Horoscope Bot](https://github.com/ysfsturan/Daily_Horoscope_Bot)
 
 A Telegram bot running on GitHub Actions that sends daily horoscope readings and zodiac insights using astronomy calculations and Google Gemini API.
 
 **Stack:** Python · Google Gemini API · Telegram Bot API · GitHub Actions
 
-### [Fortune Teller Bot](https://github.com/ysfsturan/Fortune_Teller_Bot) · `Active`
+### [Fortune Teller Bot](https://github.com/ysfsturan/Fortune_Teller_Bot)
 
 An interactive Telegram bot built with Google Gemini that offers Turkish coffee cup readings from photos, Tarot card draws, zodiac readings, and dream interpretation.
 
 **Stack:** Python · Google Gemini API · Telegram Bot API · Render
 
-### [Classic Okey](https://github.com/ysfsturan/Classic_Okey) · `Active`
+### [Classic Okey](https://github.com/ysfsturan/Classic_Okey)
 
 A browser-based Turkish Okey game with AI opponents, a 2-tier rack, drag-and-drop tiles, and sound effects.
 
 **Stack:** JavaScript · HTML5 · CSS3
 
-### [Classic Backgammon](https://github.com/ysfsturan/Classic_Backgammon) · `Active`
+### [Classic Backgammon](https://github.com/ysfsturan/Classic_Backgammon)
 
 A browser-based Backgammon (Tavla) game with single-player AI and local 2-player modes.
 
 **Stack:** JavaScript · HTML5 · CSS3
 
-### [Personal Portfolio (`ysfsturan.github.io`)](https://github.com/ysfsturan/ysfsturan.github.io) · `Active`
+### [Personal Portfolio (`ysfsturan.github.io`)](https://github.com/ysfsturan/ysfsturan.github.io)
 
 My bilingual (Turkish / English) personal website at **[ysfsturan.github.io](https://ysfsturan.github.io/)**.
 
