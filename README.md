@@ -72,13 +72,13 @@ An interactive Telegram bot built with Google Gemini that offers Turkish coffee 
 
 ### [Classic Okey](https://github.com/ysfsturan/Classic_Okey)
 
-A browser-based Turkish Okey game with AI opponents, a 2-tier rack, drag-and-drop tiles, and sound effects.
+A browser-based Turkish Okey game with AI opponents, a 2-tier rack, drag-and-drop tiles, and sound effects. **[Play Live ↗](https://ysfsturan.github.io/Classic_Okey/)**
 
 **Stack:** JavaScript · HTML5 · CSS3
 
 ### [Classic Backgammon](https://github.com/ysfsturan/Classic_Backgammon)
 
-A browser-based Backgammon (Tavla) game with single-player AI and local 2-player modes.
+A browser-based Backgammon (Tavla) game with single-player AI and local 2-player modes. **[Play Live ↗](https://ysfsturan.github.io/Classic_Backgammon/)**
 
 **Stack:** JavaScript · HTML5 · CSS3
 
