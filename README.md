@@ -45,6 +45,8 @@ From my Information Systems internship, I gained hands-on experience in computer
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat-square&logo=visual-studio&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Telegram Bot API](https://img.shields.io/badge/Telegram%20Bot%20API-26A5E4?style=flat-square&logo=telegram&logoColor=white)
@@ -54,9 +56,9 @@ From my Information Systems internship, I gained hands-on experience in computer
 
 ### [Kastamonu UBYS Bot](https://github.com/ysfsturan/Kastamonu_UBYS_Bot)
 
-A Telegram assistant for Kastamonu University students. Tracks ÜBYS grades and attendance limits, sends final target calculations, daily dining menus, Kuzeykent weather, class schedules, and university announcements via GitHub Actions.
+A 24/7 Telegram assistant for Kastamonu University students deployed on Render. Responds instantly to slash commands, tracks ÜBYS grades, GPA projections, and day-based attendance limits, calculates target finals, and delivers weekday 08:00 TR dining menus, Kuzeykent weather, class schedules, exam PDFs, and university announcements.
 
-**Stack:** Python · Telegram Bot API · GitHub Actions
+**Stack:** Python · Telegram Bot API · Docker · Render
 
 ### [Daily Horoscope Bot](https://github.com/ysfsturan/Daily_Horoscope_Bot)
 
