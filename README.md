@@ -21,7 +21,7 @@
 
 I'm a 2nd-year Computer Programming student at Kastamonu University. My main focus is IT, computer systems, and technical support, while I continue learning software development step by step.
 
-From my Information Systems internship, I gained hands-on experience in computer maintenance, operating system installation, troubleshooting, printers, malware cleanup, and camera systems. Alongside my coursework with C#, SQL, and PHP, I experiment with Python Telegram bots and browser games using APIs and AI tools to solve everyday problems.
+From my Information Systems internship, I gained hands-on experience in computer maintenance, operating system installation, troubleshooting, printers, malware cleanup, and camera systems. Alongside my coursework with C#, SQL, and PHP, I build Python Telegram bots, Windows automation utilities, and browser games using APIs and AI tools to solve everyday problems. You can explore my projects and live demos on **[ysfsturan.github.io](https://ysfsturan.github.io/#projects)**.
 
 ## Tech stack
 
@@ -51,50 +51,8 @@ From my Information Systems internship, I gained hands-on experience in computer
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Telegram Bot API](https://img.shields.io/badge/Telegram%20Bot%20API-26A5E4?style=flat-square&logo=telegram&logoColor=white)
 ![Google Gemini API](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=flat-square&logo=google&logoColor=white)
-
-## Featured projects
-
-### [Kastamonu UBYS Bot](https://github.com/ysfsturan/Kastamonu_UBYS_Bot)
-
-A 24/7 Telegram assistant for Kastamonu University students deployed on Render. Responds instantly to slash commands, tracks ÜBYS grades, GPA projections, and day-based attendance limits, calculates target finals, and delivers weekday 08:00 TR dining menus, Kuzeykent weather, class schedules, exam PDFs, and university announcements.
-
-**Stack:** Python · Telegram Bot API · Docker · Render
-
-### [Daily Horoscope Bot](https://github.com/ysfsturan/Daily_Horoscope_Bot)
-
-A Telegram bot running on GitHub Actions that sends daily horoscope readings and zodiac insights using astronomy calculations and Google Gemini API.
-
-**Stack:** Python · Google Gemini API · Telegram Bot API · GitHub Actions
-
-### [Fortune Teller Bot](https://github.com/ysfsturan/Fortune_Teller_Bot)
-
-An interactive Telegram bot built with Google Gemini that offers Turkish coffee cup readings from photos, Tarot card draws, zodiac readings, and dream interpretation.
-
-**Stack:** Python · Google Gemini API · Telegram Bot API · Render
-
-### [Classic Okey](https://github.com/ysfsturan/Classic_Okey)
-
-A browser-based Turkish Okey game with AI opponents, a 2-tier rack, drag-and-drop tiles, and sound effects. **[Play Live ↗](https://ysfsturan.github.io/Classic_Okey/)**
-
-**Stack:** JavaScript · HTML5 · CSS3
-
-### [Classic Backgammon](https://github.com/ysfsturan/Classic_Backgammon)
-
-A browser-based Backgammon (Tavla) game with single-player AI and local 2-player modes. **[Play Live ↗](https://ysfsturan.github.io/Classic_Backgammon/)**
-
-**Stack:** JavaScript · HTML5 · CSS3
-
-### [Personal Portfolio (`ysfsturan.github.io`)](https://github.com/ysfsturan/ysfsturan.github.io)
-
-My bilingual (Turkish / English) personal website at **[ysfsturan.github.io](https://ysfsturan.github.io/)**.
-
-**Stack:** HTML5 · CSS3 · JavaScript · GitHub Pages
-
-### [Python Calculator](https://github.com/ysfsturan/Python_Calculator)
-
-A simple Python console calculator covering basic math operations, loops, functions, and input error handling.
-
-**Stack:** Python
+![PowerShell](https://img.shields.io/badge/PowerShell-0078D4?style=flat-square&logo=windows&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
 
 ## Experience
 
